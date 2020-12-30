@@ -52,7 +52,7 @@ _Como el proyecto tiene dependencias en JS instalelas con_
 npm install
 ```
 
-_Copie el Archivo .env.example en un archivo nuevo .env con y configure la base de datos y las demas variables de entorno en el archivo creado_
+_Copie el archivo .env.example en un archivo nuevo .env y configure la base de datos y demás variables de entorno en el archivo creado_
 
 ```
 cp .env.example .env
