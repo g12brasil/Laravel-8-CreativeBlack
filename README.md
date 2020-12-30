@@ -1,8 +1,8 @@
-# Laravel 8 con Platilla AdminLTE
+# Laravel 8 con Platilla Creative Black
 
 ## Comenzando 🚀
 
-_Sigue las siguientes instruscciones para clonar este repositorio en tu máquina local y poder trabajar desde el principio con la plantilla AdminLTE en Laravel 8._
+_Sigue las siguientes instruscciones para clonar este repositorio en tu máquina local y poder trabajar desde el principio con la plantilla Creative Black en Laravel 8._
 
 ### Pre-requisitos 📋
 
