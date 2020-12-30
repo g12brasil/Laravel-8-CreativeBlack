@@ -37,7 +37,7 @@ _Sigue las siguientes instrucciones para clonar el repositorio_
 _Clone el repositorio_
 
 ```
-git clone https://github.com/jorgehernandezch/Laravel-8-AdminLTE.git
+git clone https://github.com/jorgehernandezch/Laravel-8-CreativeBlack.git
 ```
 
 _Instale todas las dependencias del Proyecto con_
@@ -52,18 +52,12 @@ _Como el proyecto tiene dependencias en JS instalelas con_
 npm install
 ```
 
-_Copie el Archivo .env.example en un archivo nuevo .env con_
+_Copie el Archivo .env.example en un archivo nuevo .env con y configure la base de datos y las demas variables de entorno en el archivo creado_
 
 ```
 cp .env.example .env
 ```
-_Configure la base de datos y las demas variables de entorno en el archivo .env_
 
-_Genere una nueva Key para el protecto con_
-
-```
-php artisan key:generate
-```
 _Genere una nueva Key para el protecto con_
 
 ```
